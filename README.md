@@ -1,5 +1,7 @@
 # Pandas_datascience_library
 
+![image](https://github.com/Tejashripatil25/Pandas_datascience_lib./assets/124791646/75131cd3-b0d4-4dfb-b690-625f15264b99)
+
 pandas is a software library written for the Python programming language for data manipulation and analysis.
 
 Pandas is a Python library used for working with data sets.
